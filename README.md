@@ -39,8 +39,7 @@ Just enter above command as a new startup application!
 
 ## Bonus :tada:
 
-Here are some Good GIFs made by **[adi1090x](https://github.com/adi1090x/plymouth-themes)**
-Feel get started with them!
+Here are some Good GIFs made by **[adi1090x](https://github.com/adi1090x/plymouth-themes)**, Just to Get Started!
 
 ## Contributing:
 * Please feel free to Suggest improvements bugs by creating an issue.
