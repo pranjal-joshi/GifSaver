@@ -8,7 +8,7 @@ import random
 import signal
 import argparse as ap
 from time import sleep
-from daemonize import Daemonize
+#from daemonize import Daemonize
 
 # Constants
 pidPath = '/tmp/GifSaver.pid'
