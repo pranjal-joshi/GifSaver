@@ -1,6 +1,6 @@
 ![social_preview](https://user-images.githubusercontent.com/6128978/130181938-e9df8403-a3e2-455a-86f1-58261b148c01.jpg)
 
-![MADE-IN-INDIA](https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%20IN-INDIA-orange?style=for-the-badge) [![DOWNLOAD](https://img.shields.io/badge/CLICK%20HERE%20TO-DOWNLOAD-blue?style=for-the-badge)](https://github.com/pranjal-joshi/GifSaver/releases/latest) ![GitHub](https://img.shields.io/github/license/pranjal-joshi/GifSaver?style=for-the-badge)
+![MADE-IN-INDIA](https://img.shields.io/badge/MADE%20WITH%20%E2%9D%A4%20IN-INDIA-orange?style=for-the-badge) [![DOWNLOAD](https://img.shields.io/badge/CLICK%20HERE%20TO-DOWNLOAD-blue?style=for-the-badge)](https://github.com/pranjal-joshi/GifSaver/releases/latest) ![GitHub](https://img.shields.io/github/license/pranjal-joshi/GifSaver?style=for-the-badge) [![BADGE](https://img.shields.io/badge/OPEN-SOURCE-red?style=for-the-badge)](https://github.com/pranjal-joshi/GifSaver/blob/main/GifSaver.py)
 
 ## What's GifSaver?
 
@@ -37,7 +37,14 @@ Just enter above command as a new startup application!
 
 **Note: Make sure to give full path for startup command and test the command in terminal before adding!**
 
-## Bonus
+## Bonus :tada:
 
 Here are some Good GIFs made by **[adi1090x](https://github.com/adi1090x/plymouth-themes)**
 Feel get started with them!
+
+## Contributing:
+* Please feel free to Suggest improvements bugs by creating an issue.
+* PRs are always welcome
+
+## Brought to You by:
+* Pranjal Joshi
