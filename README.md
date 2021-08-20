@@ -8,11 +8,15 @@ Only an Ubuntu user knows the true pain of not able set a Live Screensaver. So t
 
 ## How to Use it?
 
+Firstly, Install the dependency by executing following command:
+
+`sudo apt-get install xprintidle`
+
 You can either run GifSaver with Python or use a pre-compiled binary!
 
 The script takes 2 inputs from the user as follow:
 ```
-usage: GifSaver.bin or GifSaver.py [-h] -f FOLDER [-t TIMEOUT]
+usage: GifSaver.py or GifSaver.bin [-h] -f FOLDER [-t TIMEOUT] [-c CHANGE]
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -20,14 +24,17 @@ optional arguments:
                         Path to GIF Folder
   -t TIMEOUT, --timeout TIMEOUT
                         Idle Timeout to Start Screensaver
+  -c CHANGE, --change CHANGE
+                        Change Image/GIF after seconds (0 = shuffle disable)
+
 ```
 For example
 ```
-python3 path/to/GifSaver.py -f path/to/folder/where/GIFs/are/stored -t 120
+python3 path/to/GifSaver.py -f path/to/folder/where/GIFs/are/stored -t 120 -c 60
 
 or
 
-./path/to/GifSaver.bin -f path/to/folder/where/GIFs/are/stored -t 60
+./path/to/GifSaver.bin -f path/to/folder/where/GIFs/are/stored -t 60 -c 300
 ```
 
 ## Adding to Start-up
